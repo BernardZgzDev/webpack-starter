@@ -3,6 +3,8 @@
 Este es el template para crear proyectos JS usando webpack
 
 <br/>
+
+### Notas:
 Recrear node_modules:
 
 ```
